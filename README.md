@@ -5,7 +5,9 @@
 💻 Aspiring Full Stack Developer
 
 🚀 Passionate about Web Development and Building Real-World Projects
+
 🌱 Currently Learning MERN Stack Development and Strengthening My Programming Skills
+
 🎯 Preparing for Campus Placements | 2027 Batch
 
 🛠️ Tech Skills
