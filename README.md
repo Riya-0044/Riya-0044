@@ -1,7 +1,9 @@
 👋 Hi, I'm Riya!
 
 🎓 BCA Student | 5th Semester
+
 💻 Aspiring Full Stack Developer
+
 🚀 Passionate about Web Development and Building Real-World Projects
 🌱 Currently Learning MERN Stack Development and Strengthening My Programming Skills
 🎯 Preparing for Campus Placements | 2027 Batch
