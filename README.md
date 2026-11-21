@@ -31,21 +31,32 @@ Tools & Platforms: Git, GitHub, VS Code, Canva, MS Office
 A full-stack e-commerce web application featuring:
 
  User Authentication
+
  Product Listing and Categories
+
  Search and Filtering
+
  Shopping Cart and Wishlist
+
  Order Management
+
  Responsive User Interface
 
 🤖 2. AI-Powered Placement Preparation System
 An AI-based web application designed to help students prepare for campus placements with personalized practice, instant feedback and performance tracking.
 
 User Authentication (JWT)
+
 Aptitude Practice (Quantitative, Logical & Verbal)
+
 Coding Practice with AI-Based Code Review
+
 AI-Powered HR & Technical Mock Interviews
+
 Resume Analyzer with ATS-Style Feedback
+
 Performance Tracking & Progress Dashboard
+
 Weak Area Identification
 
 💼 Internship
